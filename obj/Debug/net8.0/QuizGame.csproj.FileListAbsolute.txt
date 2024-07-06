@@ -1,0 +1,14 @@
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\bin\Debug\net8.0\QuizGame.exe
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\bin\Debug\net8.0\QuizGame.deps.json
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\bin\Debug\net8.0\QuizGame.runtimeconfig.json
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\bin\Debug\net8.0\QuizGame.dll
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\bin\Debug\net8.0\QuizGame.pdb
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\obj\Debug\net8.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\obj\Debug\net8.0\QuizGame.AssemblyInfoInputs.cache
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\obj\Debug\net8.0\QuizGame.AssemblyInfo.cs
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\obj\Debug\net8.0\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\obj\Debug\net8.0\QuizGame.dll
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\obj\Debug\net8.0\refint\QuizGame.dll
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\obj\Debug\net8.0\QuizGame.pdb
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\obj\Debug\net8.0\QuizGame.genruntimeconfig.cache
+C:\Users\marsh\OneDrive\Desktop\Projects\QuizGame\obj\Debug\net8.0\ref\QuizGame.dll
