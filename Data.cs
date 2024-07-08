@@ -34,7 +34,7 @@ namespace QuizGame
         }
 
         //Tests to see if user has needed data file
-        public static bool TestForDataFile() => File.Exists(fileLocation) ? true : false;
+        public static bool TestForDataFile() => File.Exists(fileLocation);
 
         //idk what to write in these, it does what it says on the tin
         public static bool FindName(string name, out int lineNum)
